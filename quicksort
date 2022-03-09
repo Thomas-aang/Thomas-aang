@@ -1,0 +1,33 @@
+# ref programiz
+a=(2,5,7,1,4)
+def quiso(l):
+  l=list(l)
+  p=len(l)-1 if len(l)!=0 else 0
+  m=0
+  s=0
+  
+  so=False if p==0 else True
+  while so:
+    if m==p:
+      if l[p]<l[s]:
+        l[p],l[s]=l[s],l[p]  
+      #print(l) 
+      #print(l[0:s])
+      k=[x for x in l]
+      #print(l[s+1:p+1]) 
+    
+      l[0:s]=quiso(k[0:s])
+      l[s+1:p+1]=quiso(l[s+1:p+1])
+      so=False
+    elif l[m]>l[p]:
+      #print(l)
+      m+=1
+    elif l[m]<l[p]:
+      #print(l)
+      l[s],l[m]=l[m],l[s]
+      m+=1
+      s+=1  
+    else: print('***error occured:',l)
+  return l
+print(a)
+print(quiso(a))
