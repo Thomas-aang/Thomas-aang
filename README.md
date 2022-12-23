@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thomas-aang
 - 👀 I’m interested in coding, singing, learning, time-travel and universe.
 - 🌱 I’m currently pursuing B.Sc - Cyber Security
-- 🔗 [Connect with me]https://linktr.ee/jey.official
+- 🔗 [Connect with me](https://linktr.ee/jey.official)
 
 <!---
 Thomas-aang/Thomas-aang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
