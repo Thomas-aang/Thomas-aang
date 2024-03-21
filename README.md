@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thomas-aang
-- 👀 I’m interested in coding, singing, learning, time-travel and universe.
+- 👋 Hello! Earthlings. I am Jeyachandran
+- 👀 I’m interested in coding, singing, learning, admiring the nature and exploring the universe.
 - 🌱 I’m currently pursuing B.Sc - Cyber Security
 - 🔗 [Connect with me](https://linktr.ee/jey.official)
 
