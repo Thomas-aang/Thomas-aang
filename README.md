@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thomas-aang&theme=algolia&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+![A 🔥 Dashboard](https://github-readme-streak-stats.herokuapp.com/?user=Thomas-aang&theme=gotham&hide_border=true)
 
 - 👋 Hello! Earthlings. I am Jeyachandran
 - 👀 I’m interested in coding, singing, learning, admiring the nature and exploring the universe.
