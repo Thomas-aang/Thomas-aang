@@ -1,8 +1,9 @@
 <div>
 <h1>
-Namaste, I'm Jeyachandran Kothandaraman 👋
+Hello there 👋,<br>I'm <i><b>Jeyachandran Kothandaraman</i></b>
 </h1>
-Welcome to my GitHub profile! I'm a recent Computer Science graduate with a specialization in <b>Cyber Security</b>. 
+Welcome to my GitHub profile! <i>Thanks! for visiting my profile. <b>I hope you're doing well.</b></i> I'm a recent Computer Science graduate with a specialization in <b>Cyber Security</b>. 
+<img src="" />
 </div>
 <br>
 <div>
