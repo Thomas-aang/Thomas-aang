@@ -1,4 +1,16 @@
+<div>
+<h1 style="font-family:Macondo;">
+Namaste, I'm Jeyachandran Kothandaraman 👋
+</h1>
+Welcome to my GitHub profile! I'm a recent Computer Science graduate with a specialization in Cyber Security. 
+</div>
+<br>
+<div>
 
+- 👀 I’m interested in coding, singing, learning, admiring the nature and exploring the universe.
+- 🔗 [Connect with me](https://linktr.ee/jey.official)
+</div>
+<br>
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Thomas-aang&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Thomas-aang&theme=gotham&hide_border=true" />
@@ -6,10 +18,7 @@
 </div>
 
 
-- 👋 Hello! Earthlings. I am Jeyachandran
-- 👀 I’m interested in coding, singing, learning, admiring the nature and exploring the universe.
-- 🌱 I’m currently pursuing B.Sc - Cyber Security
-- 🔗 [Connect with me](https://linktr.ee/jey.official)
+
 
 <!---
 Thomas-aang/Thomas-aang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
