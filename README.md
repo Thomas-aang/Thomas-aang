@@ -1,8 +1,5 @@
 <div>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
-<h1 style="font-family:Macondo;">
+<h1>
 Namaste, I'm Jeyachandran Kothandaraman 👋
 </h1>
 Welcome to my GitHub profile! I'm a recent Computer Science graduate with a specialization in <b>Cyber Security</b>. 
