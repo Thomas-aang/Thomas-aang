@@ -6,7 +6,7 @@ Welcome to my GitHub profile! <i>Thanks! for visiting my profile. <b>I hope you'
 <br>
 <!--"https://i.gifer.com/N2j1.gif"--> 
 <div align = "center">
-<img src="https://s5.ezgif.com/tmp/ezgif-5-82b64f7a6c.gif" />
+<img src="https://github.com/Thomas-aang/Thomas-aang/blob/main/Assets/hellodev.gif" />
 </div>
 </div>
 <br>
