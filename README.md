@@ -3,7 +3,11 @@
 Hello there 👋,<br>I'm <i><b>Jeyachandran Kothandaraman</i></b>
 </h1>
 Welcome to my GitHub profile! <i>Thanks! for visiting my profile. <b>I hope you're doing well.</b></i> I'm a recent Computer Science graduate with a specialization in <b>Cyber Security</b>. 
-<img src="" />
+<br>
+<!--"https://i.gifer.com/N2j1.gif"--> 
+<div align = "center">
+<img src="https://s5.ezgif.com/tmp/ezgif-5-82b64f7a6c.gif" />
+</div>
 </div>
 <br>
 <div>
