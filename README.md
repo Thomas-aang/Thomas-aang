@@ -27,8 +27,18 @@ Welcome to my GitHub profile! <i>Thanks! for visiting my profile. <b>I hope you'
 ## STATS 📊
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Thomas-aang&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Thomas-aang&theme=gotham&hide_border=true" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-aang&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-aang&langs_count=8&theme=gotham)
+
+
+## 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thomas-aang&theme=git-dark&hide_border=true&border_radius=11&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+##
+
 </div>
 
 
